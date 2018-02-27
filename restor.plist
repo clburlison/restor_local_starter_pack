@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Images</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>FAKE will not work</string>
+			<key>URL</key>
+			<string>http://server/10.12.6.dmg</string>
+			<key>SHA-256</key>
+			<string>ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</string>
+		</dict>
+	</array>
+</dict>
+</plist>
