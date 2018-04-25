@@ -1,11 +1,11 @@
 https://github.com/google/restor
 
-restor is nice and fast but it doesn't support http :sadpanda:
+~restor is nice and fast but it doesn't support http~ :sadpanda:
 
 It also requires a config before you can use the custom dmg option :sadpanda:
 
-But you can use Clayton's fork that adds http support https://github.com/clburlison/restor/tree/http_support (a pre-compiled version
-is included in this repo)
+~But you can use Clayton's fork that adds http support https://github.com/clburlison/restor/tree/http_support (a pre-compiled version
+is included in this repo)~ Use the "insecure" version that Google releases.
 
 **OR**:
 
